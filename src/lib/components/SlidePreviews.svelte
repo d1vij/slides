@@ -9,45 +9,5 @@
             slidePromise={slide}
             slideId={idx}
         />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
-        <SlidePreview
-            slidePromise={slide}
-            slideId={idx}
-        />
     {/each}
 </div>

@@ -8,6 +8,6 @@
     <title>Sveltations</title>
 </svelte:head>
 
-<div class="p-2">
+<div class="size-full bg-red-300">
     {@render children()}
 </div>

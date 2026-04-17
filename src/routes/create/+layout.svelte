@@ -7,8 +7,8 @@
 </script>
 
 <div
-    class="mx-auto flex w-[80%] flex-col items-center gap-4"
     {@attach fullscreen.domListener}
+    class="mx-auto flex min-h-full w-[80%] flex-col items-center gap-4 bg-yellow-300"
 >
     <Toolbar />
     {@render children()}

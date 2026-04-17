@@ -10,8 +10,9 @@
 </script>
 
 <a
-    href={resolve("/create/[page]", {
-        page: slideId,
+    data-sveltekit-replacestate
+    href={resolve("/create/[slide]", {
+        slide: slideId,
     })}
     class="relative aspect-video w-25 border"
 >
